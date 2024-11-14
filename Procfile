@@ -1,1 +1,1 @@
-web: python Pizza.py
+web: python your_script.py
