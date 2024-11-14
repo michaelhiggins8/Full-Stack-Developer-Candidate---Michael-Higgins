@@ -1,1 +1,1 @@
-worker: python Pizza.py
+web: python Pizza.py
