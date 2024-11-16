@@ -3,7 +3,12 @@
 # Pizza Inventory
 
 
-This project is a pizza shop inventory system. It allows for two roles- owners and chefs. Owners can set define and edit which toppings are available for use. Chefs can use available toppings to create and edit custom pizzas. It is written in python/flask and deployed on heroku.
+This project is a pizza shop inventory system. It allows for two roles- owners and chefs. Owners can set define and edit which toppings are available for use. Chefs can use available toppings to create and edit custom pizzas. It is written in python/flask and deployed on heroku. 
+
+
+Any prompt with a number will expect the user to enter a number for their selection. For example: "Please enter 1). Option A or 2). Option B" would expect the number 1 or 2 to be entered. 
+
+
 
 ---
 
